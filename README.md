@@ -12,7 +12,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+[https://chatter-box-iaz3.onrender.com)
 
 ## Run Locally
 
@@ -66,5 +66,7 @@ Start the Client
 
 
 
-
+// facing issue with the socket.io with the render services //
+//please have a try with some other deployment services//
+//it is working fine on local device,issue is coming after making it live.
   
